@@ -1,6 +1,6 @@
 const menu = {
-    a: '砍仓建议复核平台',
-    b: 'else-else',
+    a: '自动平仓控制台',
+    b: 'else',
     c: {
         children: []
     },
