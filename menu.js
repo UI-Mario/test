@@ -4,5 +4,5 @@ const menu = {
     c: {
         children: []
     },
-    d: '888'
+    d: 'others'
 }
